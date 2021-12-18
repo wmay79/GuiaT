@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuiaT</string>
+    <string name="Cali">Cali</string>
+    <string name="Datos_Cali">"Datos: Data: Cali is a Colombian city located in the department of Valle del Cauca. It is known for the salsa dance. Some tourist sites in Cali are: Cristo Rey, Cali Zoo, La tertulia Museum, La Ermita Church, San Antonio Church. Surface: 564 km², Elevation: 1,018 m, Foundation: July 25, 1536, Mayor: Jorge Iván Ospina, Population: 2,228 million (2018), Time: 26 ° C, wind from the W at 13 km / h, humidity from 68 %"</string>
+    <string name="Informacion">Information</string>
+</resources>

@@ -2,5 +2,5 @@
     <string name="app_name">GuiaT</string>
     <string name="Cali">Cali</string>
     <string name="Datos_Cali">"Datos: Cali es una ciudad colombiana ubicada en el departamento del Valle del Cauca. Es conocida por el baile de la salsa. Algunos sitios turísticos de Cali son: Cristo Rey, Zoológico de Cali, Museo la tertulia, Iglesia la Ermita, Iglesia San Antonio. Superficie: 564 km², Elevación: 1.018 m, Fundación: 25 de julio de 1536, Alcalde: Jorge Iván Ospina, Población: 2,228 millones (2018), Tiempo: 26 °C, viento del O a 13 km/h, humedad del 68 % "</string>
-
+    <string name="Informacion">Información</string>
 </resources>
